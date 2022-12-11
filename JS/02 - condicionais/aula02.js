@@ -1,5 +1,5 @@
-const camisetaAzul = true;
-const camisetaVermelha = false;
+const numero = 10;
 
+const numeroPar = numero % 2;
 
-teste = 0;
+console.log(numeroPar);
